@@ -1,0 +1,12 @@
+streamlit
+pandas
+folium
+streamlit-folium
+ipywidgets
+geopandas
+shapely
+libpysal
+esda
+splot
+numpy
+openpyxl
